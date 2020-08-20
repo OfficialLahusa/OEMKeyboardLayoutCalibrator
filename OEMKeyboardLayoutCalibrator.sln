@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OEMKeyboardLayoutCalibrator", "OEMKeyboardLayoutCalibrator\OEMKeyboardLayoutCalibrator.csproj", "{B8B2F314-422D-44F0-8CC6-1F2513FDBC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B2F314-422D-44F0-8CC6-1F2513FDBC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B2F314-422D-44F0-8CC6-1F2513FDBC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B2F314-422D-44F0-8CC6-1F2513FDBC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B2F314-422D-44F0-8CC6-1F2513FDBC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74C0F679-CD3A-42D5-8FB7-69B4305760B4}
+	EndGlobalSection
+EndGlobal
